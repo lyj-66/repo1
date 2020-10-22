@@ -1,2 +1,3 @@
 I am young.
 too young too simple
+Git is free software distributed under the GPL.
